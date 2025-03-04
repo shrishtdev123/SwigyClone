@@ -13,6 +13,7 @@
   },
   "name": "day20majorproject",
   "version": "1.0.0",
+  "homepage": ".",
   "proxy": "http://localhost:8080",
   "main": "index.js",
   "devDependencies": {
